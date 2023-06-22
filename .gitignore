@@ -1,0 +1,3 @@
+#忽略build 文件夹全部内容
+build/
+bin/
